@@ -43,3 +43,15 @@
 * To preprocess the data
 * To analyse the data
 * To draw insights from the data
+
+## Customer profile according to product pitched
+
+| Name    |Basic        |Delux     |King       |Standard       |Super Delux      |
+|---------|-----------|----------|------------|---------------|-----|
+| Age | 26-30 | 31-40 | 51-70 | 31-40 | 41-50 |
+|Monthly Income   | <25000  | <25000 |30000-40000|<30000|25000-35000|
+| City Tier | 1  | 3 | 1 or 3 | 3 | 3|
+| Marital Status | Single>Married | almost all | mostly all except unmarried | married | mostly single and married |
+| Gender | mostly male | mostly male | mostly female | mostly male | moslty male |
+| Occupation | mostly salaried>small business>large business | mostly small business | mostly small business | mostly small business and salaried | mostly salaried |
+| Designation | Executive | Manager | VP | Senior Manager | AVP |
